@@ -6,3 +6,5 @@
 export 'package:flutter_native_view/src/widgets.dart';
 export 'package:flutter_native_view/src/flutter_native_view.dart';
 export 'package:flutter_native_view/src/native_view_controller.dart';
+
+// add by zhengjunming
